@@ -1,0 +1,81 @@
+﻿'labirint.exe' (Win32): Loaded 'C:\Users\Owner\source\repos\labirint\x64\Debug\labirint.exe'. Symbols loaded.
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Users\Owner\source\repos\labirint\labirint\sfml-graphics-2.dll'. Module was built without symbols.
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Users\Owner\source\repos\labirint\labirint\sfml-window-2.dll'. Module was built without symbols.
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Users\Owner\source\repos\labirint\labirint\sfml-system-2.dll'. Module was built without symbols.
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\opengl32.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\glu32.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0x3fcc has exited with code 0 (0x0).
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\AppXDeploymentClient.dll'. 
+'labirint.exe' (Win32): Unloaded 'C:\Windows\System32\AppXDeploymentClient.dll'
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\ig4icd64.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\dinput8.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\hid.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\d3d11.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. 
+'labirint.exe' (Win32): Unloaded 'C:\Windows\System32\ResourcePolicyClient.dll'
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\nvumdshimx.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\nvinitx.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Program Files\NVIDIA Corporation\coprocmanager\detoured.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Program Files\NVIDIA Corporation\coprocmanager\Nvd3d9wrapx.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Program Files\NVIDIA Corporation\coprocmanager\nvdxgiwrapx.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\igd10umd64.dll'. 
+The thread 0x355c has exited with code 0 (0x0).
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\DXCore.dll'. 
+'labirint.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+The thread 0x3eb0 has exited with code 0 (0x0).
+The thread 0x2a38 has exited with code 0 (0x0).
+The thread 0x32b8 has exited with code 0 (0x0).
+The thread 0x19a4 has exited with code 0 (0x0).
+The thread 0x125c has exited with code 0 (0x0).
+The thread 0x3760 has exited with code 0 (0x0).
+The thread 0x25ec has exited with code 0 (0x0).
+The thread 0x6b8 has exited with code 0 (0x0).
+The program '[6828] labirint.exe' has exited with code 0 (0x0).
